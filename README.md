@@ -40,6 +40,8 @@ See [Email Contact Forms by Formspree](https://test.formspree.io/ "Email Contact
    
 15. Validate, validate, validate and beautify before submitting.    
    
-16. Make sure the completed structure of the body of index.html looks like (The content is purposely missing from this picture; it is only the structure.):
+16. Make sure the completed structure of the body of index.html looks like the below. (The content is purposely missing from this picture; it is only the structure.)
 
 ![P5 Structure](https://github.com/cynthiateeters/project-5/raw/master/src/p5-structure.png "P5 structure of index.html")
+
+17. Upload the edited index.html and styles.css files often. Make your final submits before the due date.

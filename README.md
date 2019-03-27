@@ -26,7 +26,7 @@ See [Email Contact Forms by Formspree](https://test.formspree.io/ "Email Contact
 
 ![P5 Form](https://github.com/cynthiateeters/project-5/raw/master/src/p5-form.png "P5 form")
 
-11. Use br element tags as much as is needed to make sure each target in the form as plenty of room for touch (minimum of 44px square target).
+11. Use br element tags as much as is needed to make sure each target in the form has plenty of room for touch (minimum of 44px square target).
 12. Once the form in index.html matches the above with no styling, add CSS styling. Use Mozilla's tutorial for help. [Styling HTML forms
 ](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms "Mozilla Tutorial")
  
